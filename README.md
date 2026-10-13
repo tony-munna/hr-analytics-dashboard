@@ -97,8 +97,11 @@ The project aims to help organizations:
 Add your dashboard screenshot to the `Screenshots` folder and embed it below:
 
 ```markdown
-![HR Analytics Dashboard](Screenshots/HR_Dashboard.png)
-```
+## Dashboard Preview
+
+![HR Analytics Dashboard 1](Dashboard_Screenshots/Screenshot%202026-10-13%20205543.png)
+
+![HR Analytics Dashboard 2](Dashboard_Screenshots/Screenshot%202026-10-13%20205624.png)```
 
 ## Skills Demonstrated
 
