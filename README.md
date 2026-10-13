@@ -92,17 +92,13 @@ The project aims to help organizations:
 5. Refresh the data if required.
 6. Explore the dashboard using its filters and visualizations.
 
-## 📸 Dashboard Preview
-
-Add your dashboard screenshot to the `Screenshots` folder and embed it below:
-
-```markdown
 ## Dashboard Preview
 
-![HR Analytics Dashboard 1](Dashboard_Screenshots/Screenshot%202026-10-13%20205543.png)
+### Screenshot 1
+![HR Analytics Dashboard - Overview](./Dashboard_Screenshots/Screenshot%202026-10-13%20205543.png)
 
-![HR Analytics Dashboard 2](Dashboard_Screenshots/Screenshot%202026-10-13%20205624.png)```
-
+### Screenshot 2
+![HR Analytics Dashboard - Detailed View](./Dashboard_Screenshots/Screenshot%202026-10-13%20205624.png)
 ## Skills Demonstrated
 
 - Data Cleaning and Transformation
